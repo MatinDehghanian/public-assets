@@ -3,12 +3,12 @@
     {
       "name": "اپل",
       "engName": "iOS",
-      "osLogo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
       "apps": [
         {
           "name": "Streisand",
           "price": "0",
-          "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/a0/cd/83a0cd76-ef34-d890-7b44-a1a9a17041c5/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/512x512bb.jpg",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
@@ -18,7 +18,7 @@
         {
           "name": "Shadowrocket",
           "price": "2.99",
-          "logo": "https://avatars.githubusercontent.com/u/22568082",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
           "configLink": "https://example.com/shadowrocket-config",
@@ -28,7 +28,7 @@
         {
           "name": "V2box",
           "price": "0",
-          "logo": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
@@ -40,12 +40,12 @@
     {
       "name": "اندروید",
       "engName": "Android",
-      "osLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1173px-Android_logo_2019_%28stacked%29.svg.png",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
       "apps": [
         {
           "name": "V2rayNG",
           "price": "0",
-          "logo": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config",
@@ -55,7 +55,7 @@
         {
           "name": "V2box",
           "price": "0",
-          "logo": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
@@ -67,12 +67,12 @@
     {
       "name": "ویندوز",
       "engName": "Windows",
-      "osLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Windows_logo_2021.svg.png",
       "apps": [
         {
           "name": "V2rayN",
           "price": "0",
-          "logo": "https://fa.v2rayn.org/wp-content/uploads/2024/01/favicon.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "configLink": "v2rayng://install-config",
@@ -84,12 +84,12 @@
     {
       "name": "لینوکس",
       "engName": "Linux",
-      "osLogo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Tux.png",
       "apps": [
         {
           "name": "Nekoray",
           "price": "0",
-          "logo": "https://avatars.githubusercontent.com/u/95122236?v=4",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
           "configLink": "https://example.com/nekoray-config",
@@ -99,7 +99,7 @@
         {
           "name": "SingBox",
           "price": "0",
-          "logo": "https://play-lh.googleusercontent.com/9hC1t0lYNRlFHt2N2NJCWYMe_M6vJh580XHdC0JeEW14AJJFZGDbgj_meooXAXHbWJ1_",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
           "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
