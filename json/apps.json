@@ -74,18 +74,5 @@
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb"
     },
     "ShowInMenu": false
-  },
-  {
-    "name": "NewApp",
-    "image": "NewLink",
-    "link": "new-app-box://import-remote-profile?url={url}#MattSub",
-    "os": ["iOS", "Android", "Linux", "Windows"],
-    "downloadLinks": {
-      "iOS": "https://apps.apple.com/om/app/sing-box/id6451272673",
-      "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/SFA-1.9.6-universal.apk",
-      "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb",
-      "Windows": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb"
-    },
-    "ShowInMenu": false
   }
 ]
