@@ -13,7 +13,14 @@
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
           "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-          "videoLink": "https://example.com/streisand-video"
+          "videoLink": "https://example.com/streisand-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            }
+          ]
         },
         {
           "name": "Shadowrocket",
@@ -23,7 +30,29 @@
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
           "configLink": "https://example.com/shadowrocket-config",
           "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
-          "videoLink": "https://example.com/shadowrocket-video"
+          "videoLink": "https://example.com/shadowrocket-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            },
+            {
+              "stepText": "Step 2: Open the app and click on 'Set up Server'.",
+              "faStepText": "مرحله ۲: برنامه را باز کنید و روی 'راه‌اندازی سرور' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step2.png"
+            },
+            {
+              "stepText": "Step 3: Choose your server location and click 'Deploy'.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید و روی 'اجرا' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step3.png"
+            },
+            {
+              "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
+              "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
+              "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
         },
         {
           "name": "V2box",
@@ -33,7 +62,19 @@
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-          "videoLink": "https://example.com/v2box-video"
+          "videoLink": "https://example.com/v2box-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            },
+            {
+              "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
+              "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
+              "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
         }
       ]
     },
@@ -50,7 +91,8 @@
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_universal.apk",
-          "videoLink": "https://example.com/v2rayng-video"
+          "videoLink": "https://example.com/v2rayng-video",
+          "tutorialSteps": []
         },
         {
           "name": "V2box",
@@ -60,7 +102,29 @@
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
-          "videoLink": "https://example.com/v2box-video"
+          "videoLink": "https://example.com/v2box-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            },
+            {
+              "stepText": "Step 2: Open the app and click on 'Set up Server'.",
+              "faStepText": "مرحله ۲: برنامه را باز کنید و روی 'راه‌اندازی سرور' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step2.png"
+            },
+            {
+              "stepText": "Step 3: Choose your server location and click 'Deploy'.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید و روی 'اجرا' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step3.png"
+            },
+            {
+              "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
+              "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
+              "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
         }
       ]
     },
@@ -77,7 +141,29 @@
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip",
-          "videoLink": "https://example.com/v2rayn-video"
+          "videoLink": "https://example.com/v2rayn-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            },
+            {
+              "stepText": "Step 2: Open the app and click on 'Set up Server'.",
+              "faStepText": "مرحله ۲: برنامه را باز کنید و روی 'راه‌اندازی سرور' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step2.png"
+            },
+            {
+              "stepText": "Step 3: Choose your server location and click 'Deploy'.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید و روی 'اجرا' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step3.png"
+            },
+            {
+              "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
+              "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
+              "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
         }
       ]
     },
@@ -94,7 +180,29 @@
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
           "configLink": "https://example.com/nekoray-config",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip",
-          "videoLink": "https://example.com/nekoray-video"
+          "videoLink": "https://example.com/nekoray-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            },
+            {
+              "stepText": "Step 2: Open the app and click on 'Set up Server'.",
+              "faStepText": "مرحله ۲: برنامه را باز کنید و روی 'راه‌اندازی سرور' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step2.png"
+            },
+            {
+              "stepText": "Step 3: Choose your server location and click 'Deploy'.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید و روی 'اجرا' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step3.png"
+            },
+            {
+              "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
+              "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
+              "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
         },
         {
           "name": "SingBox",
@@ -104,7 +212,29 @@
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
           "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.9.6/sing-box_1.9.6_linux_386.deb",
-          "videoLink": "https://example.com/sing-box-video"
+          "videoLink": "https://example.com/sing-box-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            },
+            {
+              "stepText": "Step 2: Open the app and click on 'Set up Server'.",
+              "faStepText": "مرحله ۲: برنامه را باز کنید و روی 'راه‌اندازی سرور' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step2.png"
+            },
+            {
+              "stepText": "Step 3: Choose your server location and click 'Deploy'.",
+              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید و روی 'اجرا' کلیک کنید.",
+              "stepImage": "https://example.com/streisand-step3.png"
+            },
+            {
+              "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
+              "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
+              "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
         }
       ]
     }
