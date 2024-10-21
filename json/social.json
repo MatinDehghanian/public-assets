@@ -1,26 +1,17 @@
 [
   {
-    "name": "WhatsApp",
-    "nameFa": "واتس اپ",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/WhatsApp.svg",
-    "contact_link": "https://wa.me/your-number"
+    "name": "Telegram Support",
+    "nameFa": "پشتیبان تلگرام",
+    "contact_link": "https://t.me/artemisvpn"
   },
   {
-    "name": "Telegram",
-    "nameFa": "تلگرام",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
-    "contact_link": "https://t.me/your-username"
+    "name": "Telegram Channel",
+    "nameFa": "کانال تلگرام",
+    "contact_link": "https://t.me/Artemisvpnbot"
   },
   {
     "name": "Instagram",
     "nameFa": "اینستاگرام",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Instagram.png",
-    "contact_link": "https://www.instagram.com/your-username"
-  },
-  {
-    "name": "Phone Number",
-    "nameFa": "شماره تلفن",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Phone_iOS.png",
-    "contact_link": "tel:+your-phone-number"
+    "contact_link": "https://www.instagram.com/artemisvpn"
   }
 ]
