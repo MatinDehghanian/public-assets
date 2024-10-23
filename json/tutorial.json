@@ -1,0 +1,56 @@
+[
+  {
+    "title": "How to Set Up a VPN on Your iPhone",
+    "faTitle": "چگونه یک VPN روی آیفون خود راه‌اندازی کنید",
+    "steps": [
+      {
+        "stepText": "Step 1: Open the Settings app on your iPhone.",
+        "faStepText": "مرحله ۱: برنامه تنظیمات را در آیفون خود باز کنید.",
+        "stepImage": "https://example.com/vpn-step1.png"
+      },
+      {
+        "stepText": "Step 2: Tap on 'General' and then 'VPN'.",
+        "faStepText": "مرحله ۲: بر روی 'عمومی' و سپس 'VPN' ضربه بزنید.",
+        "stepImage": "https://example.com/vpn-step2.png"
+      },
+      {
+        "stepText": "Step 3: Tap on 'Add VPN Configuration'.",
+        "faStepText": "مرحله ۳: بر روی 'افزودن پیکربندی VPN' ضربه بزنید.",
+        "stepImage": "https://example.com/vpn-step3.png"
+      },
+      {
+        "stepText": "Step 4: Enter the VPN settings provided by your network administrator.",
+        "faStepText": "مرحله ۴: تنظیمات VPN ارائه شده توسط مدیر شبکه خود را وارد کنید.",
+        "stepImage": "https://example.com/vpn-step4.png"
+      }
+    ],
+    "video": "https://example.com/vpn-setup.mp4"
+  },
+  {
+    "title": "How to Set Up a VPN on Your Android Phone",
+    "faTitle": "چگونه یک VPN روی گوشی اندروید خود راه‌اندازی کنید",
+    "steps": [
+      {
+        "stepText": "Step 1: Open the Settings app on your Android phone.",
+        "faStepText": "مرحله ۱: برنامه تنظیمات را در گوشی اندروید خود باز کنید.",
+        "stepImage": "https://example.com/vpn-step1.png"
+      },
+      {
+        "stepText": "Step 2: Tap on 'Network & Internet' and then 'VPN'.",
+        "faStepText": "مرحله ۲: بر روی 'شبکه و اینترنت' و سپس 'VPN' ضربه بزنید.",
+        "stepImage": "https://example.com/vpn-step2.png"
+      },
+      {
+        "stepText": "Step 3: Tap on the '+' icon to add a new VPN connection.",
+        "faStepText": "مرحله ۳: بر روی آیکون '+' ضربه بزنید تا یک اتصال VPN جدید اضافه کنید.",
+        "stepImage": "https://example.com/vpn-step3.png"
+      },
+      {
+        "stepText": "Step 4: Enter the VPN settings provided by your network administrator.",
+        "faStepText": "مرحله ۴: تنظیمات VPN ارائه شده توسط مدیر شبکه خود را وارد کنید.",
+        "stepImage": "https://example.com/vpn-step4.png"
+      }
+    ],
+    "video": "https://example.com/vpn-setup.mp4"
+  }
+]
