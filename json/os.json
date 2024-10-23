@@ -6,23 +6,6 @@
       "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
       "apps": [
         {
-          "name": "Streisand",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
-          "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-          "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
-          "configLink": "streisand://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-          "videoLink": "https://example.com/streisand-video",
-          "tutorialSteps": [
-            {
-              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
-              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
-              "stepImage": "https://example.com/streisand-step1.png"
-            }
-          ]
-        },
-        {
           "name": "Shadowrocket",
           "price": "2.99",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
@@ -75,6 +58,57 @@
               "stepImage": "https://example.com/streisand-step4.png"
             }
           ]
+        },
+        {
+          "name": "Streisand",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
+          "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
+          "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
+          "configLink": "streisand://import/{url}",
+          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+          "videoLink": "https://example.com/streisand-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            }
+          ]
+        },
+        {
+          "name": "Karing",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/artemis/icons/karing.png",
+          "description": "A singbox GUI based on flutter.",
+          "faDescription": "یک GUI سینگ باکس بر اساس فلاتر",
+          "configLink": "karing://install-config?url={url}&name=ArtmeisSub",
+          "downloadLink": "https://apps.apple.com/us/app/karing/id6472431552",
+          "videoLink": "https://example.com/karing-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            }
+          ]
+        },
+        {
+          "name": "Sing-Box",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/artemis/icons/singbox.svg",
+          "description": "A singbox GUI based on flutter.",
+          "faDescription": "یک GUI سینگ باکس بر اساس فلاتر",
+          "configLink": "sing-box://import-remote-profile?url=${url}#ArtemisSub",
+          "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
+          "videoLink": "https://example.com/singbox-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            }
+          ]
         }
       ]
     },
@@ -83,17 +117,6 @@
       "engName": "Android",
       "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
       "apps": [
-        {
-          "name": "V2rayNG",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
-          "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
-          "configLink": "v2rayng://install-config",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_universal.apk",
-          "videoLink": "https://example.com/v2rayng-video",
-          "tutorialSteps": []
-        },
         {
           "name": "V2box",
           "price": "0",
@@ -123,6 +146,51 @@
               "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
               "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
               "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
+        },
+        {
+          "name": "Karing",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/artemis/icons/karing.png",
+          "description": "A singbox GUI based on flutter.",
+          "faDescription": "یک GUI سینگ باکس بر اساس فلاتر",
+          "configLink": "karing://install-config?url={url}&name=ArtmeisSub",
+          "downloadLink": "https://github.com/KaringX/karing/releases/download/v1.0.30.414/karing_1.0.30.414_android_arm64.apk",
+          "videoLink": "https://example.com/karing-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
+            }
+          ]
+        },
+        {
+          "name": "V2rayNG",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "configLink": "v2rayng://install-config",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_universal.apk",
+          "videoLink": "https://example.com/v2rayng-video",
+          "tutorialSteps": []
+        },
+        {
+          "name": "Sing-Box",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/artemis/icons/singbox.svg",
+          "description": "A singbox GUI based on flutter.",
+          "faDescription": "یک GUI سینگ باکس بر اساس فلاتر",
+          "configLink": "sing-box://import-remote-profile?url=${url}#ArtemisSub",
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
+          "videoLink": "https://example.com/singbox-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
             }
           ]
         }
@@ -162,6 +230,23 @@
               "stepText": "Step 4: Once the deployment is complete, click 'Connect' to start using the service.",
               "faStepText": "مرحله ۴: پس از اتمام اجرا، روی 'اتصال' کلیک کنید تا از سرویس استفاده کنید.",
               "stepImage": "https://example.com/streisand-step4.png"
+            }
+          ]
+        },
+        {
+          "name": "Karing",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/artemis/icons/karing.png",
+          "description": "A singbox GUI based on flutter.",
+          "faDescription": "یک GUI سینگ باکس بر اساس فلاتر",
+          "configLink": "karing://install-config?url={url}&name=ArtmeisSub",
+          "downloadLink": "https://github.com/KaringX/karing/releases/download/v1.0.30.414/karing_1.0.30.414_windows_x64.exe",
+          "videoLink": "https://example.com/karing-video",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+              "stepImage": "https://example.com/streisand-step1.png"
             }
           ]
         }
