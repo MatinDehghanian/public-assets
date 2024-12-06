@@ -31,7 +31,7 @@
       "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
       "Android": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "V2rayN",
@@ -41,7 +41,7 @@
     "downloadLinks": {
       "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "Shadowrocket",
@@ -60,7 +60,7 @@
       "Windows": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip",
       "Linux": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "SingBox",
