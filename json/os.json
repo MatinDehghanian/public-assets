@@ -59,7 +59,7 @@
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
+          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
           "videoLink": "https://example.com/v2box-video"
         }
       ]
