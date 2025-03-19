@@ -15,7 +15,20 @@
           "directLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk"
         },
         "tutorial": {
-          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
+          "image": [
+            {
+              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
+              "alt": "آموزش نصب"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
+              "alt": "آموزش استفاده"
+            },
+            {
+              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
+              "alt": "آموزش تنظیمات"
+            }
+          ],
           "video": "https://www.youtube.com/watch?v=J6n3k8b5y0A"
         }
       }
@@ -55,7 +68,12 @@
           "directLink": "example.com"
         },
         "tutorial": {
-          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg"
+          "image": [
+            {
+              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
+              "alt": "آموزش نصب"
+            }
+          ]
         }
       },
       {
