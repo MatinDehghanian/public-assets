@@ -6,30 +6,11 @@
     "apps": [
       {
         "name": "V2rayNG",
-        "urlScheme": "v2rayng://install-config",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
         "link": "v2rayng://install-config?url={url}",
         "downloadLinks": {
-          "github": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
           "playStore": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-          "directLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk"
-        },
-        "tutorial": {
-          "image": [
-            {
-              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
-              "alt": "آموزش نصب"
-            },
-            {
-              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
-              "alt": "آموزش استفاده"
-            },
-            {
-              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
-              "alt": "آموزش تنظیمات"
-            }
-          ],
-          "video": "https://www.youtube.com/watch?v=J6n3k8b5y0A"
+          "directLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk"
         }
       }
     ]
@@ -40,15 +21,26 @@
     "label": "آی او اس",
     "apps": [
       {
-        "name": "Streisand",
-        "urlScheme": "v2rayng://install-config",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
+        "name": "v2raytun",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
+        "link": "v2raytun://install-config?url={url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
-        },
-        "tutorial": {
-          "video": "https://www.youtube.com/watch?v=J6n3k8b5y0A"
+        }
+      },
+      {
+        "name": "Npv Tunnel",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
+        "downloadLinks": {
+          "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
+        }
+      },
+      {
+        "name": "Streisand",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
+        "link": "streisand://import/{url}",
+        "downloadLinks": {
+          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
         }
       }
     ]
@@ -60,30 +52,9 @@
     "apps": [
       {
         "name": "V2rayN",
-        "urlScheme": "v2rayng://install-config",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayn.svg",
         "downloadLinks": {
-          "github": "github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
-          "directLink": "example.com"
-        },
-        "tutorial": {
-          "image": [
-            {
-              "src": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
-              "alt": "آموزش نصب"
-            }
-          ]
-        }
-      },
-      {
-        "name": "V2rayNGf",
-        "urlScheme": "v2rayng://install-config",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
-        "downloadLinks": {
-          "github": "github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
-          "directLink": "example.com"
+          "directLink": "https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-64-SelfContained.zip"
         }
       }
     ]
@@ -94,46 +65,26 @@
     "label": "مَک او اس",
     "apps": [
       {
-        "name": "V2rayNG",
-        "urlScheme": "v2rayng://install-config",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
+        "name": "v2raytun",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
+        "link": "v2raytun://install-config?url={url}",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463",
-          "github": "github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
-          "directLink": "example.com"
-        },
-        "tutorial": {
-          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg",
-          "video": "https://www.youtube.com/watch?v=J6n3k8b5y0A"
+          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
         }
       },
       {
-        "name": "V2rayNGs",
-        "urlScheme": "v2rayng://install-config",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
+        "name": "Npv Tunnel",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463",
-          "github": "github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
-          "directLink": "example.com"
-        },
-        "tutorial": {
-          "video": "https://www.youtube.com/watch?v=J6n3k8b5y0A"
+          "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
         }
       },
       {
-        "name": "V2rayNGv",
-        "urlScheme": "v2rayng://install-config",
+        "name": "Streisand",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
+        "link": "streisand://import/{url}",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463",
-          "github": "github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
-          "directLink": "example.com"
-        },
-        "tutorial": {
-          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/video.svg"
+          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
         }
       }
     ]
