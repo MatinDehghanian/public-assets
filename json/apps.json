@@ -23,7 +23,7 @@
       {
         "name": "v2raytun",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
-        "link": "v2raytun://install-config?url={url}",
+        "link": "v2raytun://import/{url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
         }
@@ -37,7 +37,7 @@
       },
       {
         "name": "Streisand",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
         "link": "streisand://import/{url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
@@ -67,7 +67,7 @@
       {
         "name": "v2raytun",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
-        "link": "v2raytun://install-config?url={url}",
+        "link": "v2raytun://import/{url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
         }
@@ -81,7 +81,7 @@
       },
       {
         "name": "Streisand",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
         "link": "streisand://import/{url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
