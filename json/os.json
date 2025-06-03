@@ -12,7 +12,7 @@
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
           "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
-          "downloadLink": "https://play.google.com/store/apps/details?id=io.nekohasekai.sfa&hl=en"
+          "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168"
         },
         {
           "name": "Shadowrocket",
@@ -20,7 +20,6 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
-          "configLink": "https://example.com/shadowrocket-config",
           "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
         },
         {
@@ -63,7 +62,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/latest",
           "tutorialSteps": [
             {
               "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
