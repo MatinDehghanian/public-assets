@@ -1,309 +1,337 @@
-[
-  {
-    "id": "Android",
-    "name": "اَندروید",
-    "engName": "Android",
-    "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/android.svg",
-    "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Android_logo_2019.svg.png",
-    "label": "اَندروید",
-    "apps": [
-      {
-        "name": "V2rayNG",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2rayNG.png",
-        "link": "v2rayng://install-config?url={url}",
-        "urlScheme": "v2rayng://install-config",
-        "configLink": "v2rayng://install-config?url={url}",
-        "downloadLinks": {
-          "playStore": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-          "directLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk",
-          "Android": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk"
+{
+  "operatingSystems": [
+    {
+      "id": "Android",
+      "name": "اَندروید",
+      "engName": "Android",
+      "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/android.svg",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Android_logo_2019.svg.png",
+      "label": "اَندروید",
+      "apps": [
+        {
+          "name": "V2rayNG",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2rayNG.png",
+          "link": "v2rayng://install-config?url={url}",
+          "urlScheme": "v2rayng://install-config",
+          "configLink": "v2rayng://install-config?url={url}",
+          "downloadLinks": {
+            "playStore": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
+            "directLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk",
+            "Android": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk"
+          },
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
+          "showInMenu": true,
+          "price": "0",
+          "description": "A V2Ray client for Android.",
+          "faDescription": "V2rayNG یک کلاینت V2Ray برای اندروید است.",
+          "tutorials": [
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2rayng/1.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2rayng/2.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2rayng/3.jpg"
+          ]
         },
-        "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk",
-        "showInMenu": true,
-        "price": "0",
-        "description": "A V2Ray client for Android.",
-        "faDescription": "V2rayNG یک کلاینت V2Ray برای اندروید است.",
-        "tutorials": [
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2rayng/1.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2rayng/2.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2rayng/3.jpg"
-        ]
-      },
-      {
-        "name": "V2box",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
-        "link": "v2box://install-sub?url={url}&name=SUBnew",
-        "urlScheme": "v2box://install-sub",
-        "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-        "downloadLinks": {
-          "playStore": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
-          "Android": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB"
+        {
+          "name": "V2box",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
+          "link": "v2box://install-sub?url={url}&name=SUBnew",
+          "urlScheme": "v2box://install-sub",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "downloadLinks": {
+            "playStore": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
+            "Android": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB"
+          },
+          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
+          "showInMenu": true,
+          "price": "0",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
+          "tutorials": [
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box-android/1.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box-android/2.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box-android/3.jpg"
+          ]
         },
-        "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
-        "showInMenu": true,
-        "price": "0",
-        "description": "A cross-platform V2Ray client.",
-        "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-        "tutorials": [
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box-android/1.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box-android/2.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box-android/3.jpg"
-        ]
-      },
-      {
-        "name": "SingBox",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "link": "sing-box://import-remote-profile?url={url}#MattSub",
-        "urlScheme": "sing-box://import-remote-profile",
-        "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
-        "downloadLinks": {
-          "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
-          "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk"
-        },
-        "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
-        "showInMenu": false,
-        "price": "0",
-        "description": "A client that provides a platform for routing traffic securely.",
-        "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
-      }
-    ]
-  },
-  {
-    "id": "iOS",
-    "name": "آی او اس",
-    "engName": "iOS",
-    "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/ios.svg",
-    "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Apple_logo_black.svg",
-    "label": "آی او اس",
-    "apps": [
-      {
-        "name": "SingBox",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "link": "sing-box://import-remote-profile?url={url}#MattSub",
-        "urlScheme": "sing-box://import-remote-profile",
-        "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
-          "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168"
-        },
-        "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
-        "showInMenu": true,
-        "price": "0",
-        "description": "A client that provides a platform for routing traffic securely.",
-        "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
-      },
-      {
-        "name": "Shadowrocket",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/shadowrocket.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/shadowrocket.png",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/shadowrocket/id932747118",
-          "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
-        },
-        "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
-        "showInMenu": true,
-        "price": "2.99",
-        "description": "A rule-based proxy utility client for iOS.",
-        "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
-        "tutorials": [
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/shadowrocket/1.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/shadowrocket/2.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/shadowrocket/3.jpg"
-        ]
-      },
-      {
-        "name": "V2box",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
-        "link": "v2box://install-sub?url={url}&name=SUBnew",
-        "urlScheme": "v2box://install-sub",
-        "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-          "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
-        },
-        "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-        "showInMenu": true,
-        "price": "0",
-        "description": "A cross-platform V2Ray client.",
-        "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-        "tutorials": [
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box/1.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box/2.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box/3.jpg"
-        ]
-      },
-      {
-        "name": "Streisand",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/streisand.jpg",
-        "link": "streisand://import/{url}",
-        "urlScheme": "streisand://import/",
-        "configLink": "streisand://import/{url}",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id6450534064",
-          "iOS": "https://apps.apple.com/us/app/streisand/id6450534064"
-        },
-        "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-        "showInMenu": true,
-        "price": "0",
-        "description": "A V2Ray client for iOS.",
-        "faDescription": "Streisand یک کلاینت V2Ray برای iOS است.",
-        "tutorials": [
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/1.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/2.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/3.jpg",
-          "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/4.jpg"
-        ]
-      },
-      {
-        "name": "v2raytun",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
-        "link": "v2raytun://import/{url}",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+        {
+          "name": "SingBox",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "link": "sing-box://import-remote-profile?url={url}#MattSub",
+          "urlScheme": "sing-box://import-remote-profile",
+          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
+          "downloadLinks": {
+            "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
+            "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk"
+          },
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
+          "showInMenu": false,
+          "price": "0",
+          "description": "A client that provides a platform for routing traffic securely.",
+          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
         }
-      },
-      {
-        "name": "Npv Tunnel",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
+      ]
+    },
+    {
+      "id": "iOS",
+      "name": "آی او اس",
+      "engName": "iOS",
+      "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/ios.svg",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Apple_logo_black.svg",
+      "label": "آی او اس",
+      "apps": [
+        {
+          "name": "SingBox",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "link": "sing-box://import-remote-profile?url={url}#MattSub",
+          "urlScheme": "sing-box://import-remote-profile",
+          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
+            "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168"
+          },
+          "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
+          "showInMenu": true,
+          "price": "0",
+          "description": "A client that provides a platform for routing traffic securely.",
+          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
+        },
+        {
+          "name": "Shadowrocket",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/shadowrocket.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/shadowrocket.png",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/shadowrocket/id932747118",
+            "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+          },
+          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
+          "showInMenu": true,
+          "price": "2.99",
+          "description": "A rule-based proxy utility client for iOS.",
+          "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
+          "tutorials": [
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/shadowrocket/1.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/shadowrocket/2.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/shadowrocket/3.jpg"
+          ]
+        },
+        {
+          "name": "V2box",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2box.png",
+          "link": "v2box://install-sub?url={url}&name=SUBnew",
+          "urlScheme": "v2box://install-sub",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+            "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
+          },
+          "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+          "showInMenu": true,
+          "price": "0",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
+          "tutorials": [
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box/1.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box/2.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/v2box/3.jpg"
+          ]
+        },
+        {
+          "name": "Streisand",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/streisand.jpg",
+          "link": "streisand://import/{url}",
+          "urlScheme": "streisand://import/",
+          "configLink": "streisand://import/{url}",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/streisand/id6450534064",
+            "iOS": "https://apps.apple.com/us/app/streisand/id6450534064"
+          },
+          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+          "showInMenu": true,
+          "price": "0",
+          "description": "A V2Ray client for iOS.",
+          "faDescription": "Streisand یک کلاینت V2Ray برای iOS است.",
+          "tutorials": [
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/1.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/2.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/3.jpg",
+            "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/tutorials/streisand/4.jpg"
+          ]
+        },
+        {
+          "name": "v2raytun",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
+          "link": "v2raytun://import/{url}",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          }
+        },
+        {
+          "name": "Npv Tunnel",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "Windows",
-    "name": "ویندوز",
-    "engName": "Windows",
-    "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/windows.svg",
-    "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Windows_logo_2021.svg.png",
-    "label": "ویندوز",
-    "apps": [
-      {
-        "name": "V2rayN",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayn.svg",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2rayN.png",
-        "urlScheme": "v2rayng://install-config",
-        "downloadLinks": {
-          "directLink": "https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-64-SelfContained.zip",
-          "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip"
+      ]
+    },
+    {
+      "id": "Windows",
+      "name": "ویندوز",
+      "engName": "Windows",
+      "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/windows.svg",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Windows_logo_2021.svg.png",
+      "label": "ویندوز",
+      "apps": [
+        {
+          "name": "V2rayN",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayn.svg",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/v2rayN.png",
+          "urlScheme": "v2rayng://install-config",
+          "downloadLinks": {
+            "directLink": "https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-64-SelfContained.zip",
+            "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip"
+          },
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip",
+          "showInMenu": false,
+          "price": "0",
+          "description": "A V2Ray client for Windows.",
+          "faDescription": "V2rayN یک کلاینت V2Ray برای ویندوز است."
         },
-        "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip",
-        "showInMenu": false,
-        "price": "0",
-        "description": "A V2Ray client for Windows.",
-        "faDescription": "V2rayN یک کلاینت V2Ray برای ویندوز است."
-      },
-      {
-        "name": "Nekoray",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
-        "downloadLinks": {
-          "directLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip",
-          "Windows": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip"
+        {
+          "name": "Nekoray",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
+          "downloadLinks": {
+            "directLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip",
+            "Windows": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip"
+          },
+          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip",
+          "showInMenu": false,
+          "price": "0",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Nekoray یک کلاینت V2Ray چندسکویی است."
         },
-        "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip",
-        "showInMenu": false,
-        "price": "0",
-        "description": "A cross-platform V2Ray client.",
-        "faDescription": "Nekoray یک کلاینت V2Ray چندسکویی است."
-      },
-      {
-        "name": "SingBox",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "link": "sing-box://import-remote-profile?url={url}#MattSub",
-        "urlScheme": "sing-box://import-remote-profile",
-        "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
-        "downloadLinks": {
-          "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
-        },
-        "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb",
-        "showInMenu": false,
-        "price": "0",
-        "description": "A client that provides a platform for routing traffic securely.",
-        "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
-      }
-    ]
-  },
-  {
-    "id": "MacOS",
-    "name": "مَک او اس",
-    "engName": "MacOS",
-    "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/mac.svg",
-    "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Apple_logo_black.svg",
-    "label": "مَک او اس",
-    "apps": [
-      {
-        "name": "v2raytun",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
-        "link": "v2raytun://import/{url}",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+        {
+          "name": "SingBox",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "link": "sing-box://import-remote-profile?url={url}#MattSub",
+          "urlScheme": "sing-box://import-remote-profile",
+          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
+          "downloadLinks": {
+            "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
+          },
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb",
+          "showInMenu": false,
+          "price": "0",
+          "description": "A client that provides a platform for routing traffic securely.",
+          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
         }
-      },
-      {
-        "name": "Npv Tunnel",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
-        }
-      },
-      {
-        "name": "Streisand",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
-        "link": "streisand://import/{url}",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
-        }
-      }
-    ]
-  },
-  {
-    "id": "Linux",
-    "name": "لینوکس",
-    "engName": "Linux",
-    "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Tux.png",
-    "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Tux.png",
-    "label": "لینوکس",
-    "apps": [
-      {
-        "name": "Nekoray",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
-        "downloadLinks": {
-          "directLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip",
-          "Linux": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip"
+      ]
+    },
+    {
+      "id": "MacOS",
+      "name": "مَک او اس",
+      "engName": "MacOS",
+      "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/mac.svg",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Apple_logo_black.svg",
+      "label": "مَک او اس",
+      "apps": [
+        {
+          "name": "v2raytun",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
+          "link": "v2raytun://import/{url}",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          }
         },
-        "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip",
-        "showInMenu": false,
-        "price": "0",
-        "description": "A cross-platform V2Ray client.",
-        "faDescription": "Nekoray یک کلاینت V2Ray چندسکویی است."
-      },
-      {
-        "name": "SingBox",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
-        "link": "sing-box://import-remote-profile?url={url}#MattSub",
-        "urlScheme": "sing-box://import-remote-profile",
-        "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
-        "downloadLinks": {
-          "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb",
-          "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
+        {
+          "name": "Npv Tunnel",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
+          }
         },
-        "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb",
-        "showInMenu": false,
-        "price": "0",
-        "description": "A client that provides a platform for routing traffic securely.",
-        "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
-      }
-    ]
-  }
-]
+        {
+          "name": "Streisand",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
+          "link": "streisand://import/{url}",
+          "downloadLinks": {
+            "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Linux",
+      "name": "لینوکس",
+      "engName": "Linux",
+      "icon": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Tux.png",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Tux.png",
+      "label": "لینوکس",
+      "apps": [
+        {
+          "name": "Nekoray",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/nekoray.jpeg",
+          "downloadLinks": {
+            "directLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip",
+            "Linux": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip"
+          },
+          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip",
+          "showInMenu": false,
+          "price": "0",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Nekoray یک کلاینت V2Ray چندسکویی است."
+        },
+        {
+          "name": "SingBox",
+          "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/singbox.png",
+          "link": "sing-box://import-remote-profile?url={url}#MattSub",
+          "urlScheme": "sing-box://import-remote-profile",
+          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
+          "downloadLinks": {
+            "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb",
+            "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
+          },
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb",
+          "showInMenu": false,
+          "price": "0",
+          "description": "A client that provides a platform for routing traffic securely.",
+          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند."
+        }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "name": "WhatsApp",
+      "nameFa": "واتس اپ",
+      "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/WhatsApp.svg",
+      "contact_link": "https://wa.me/your-number"
+    },
+    {
+      "name": "Telegram",
+      "nameFa": "تلگرام",
+      "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Telegram.svg",
+      "contact_link": "https://t.me/your-username"
+    },
+    {
+      "name": "Instagram",
+      "nameFa": "اینستاگرام",
+      "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Instagram.png",
+      "contact_link": "https://www.instagram.com/your-username"
+    },
+    {
+      "name": "Phone Number",
+      "nameFa": "شماره تلفن",
+      "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tut/icons/Phone_iOS.png",
+      "contact_link": "tel:+your-phone-number"
+    }
+  ]
+}
