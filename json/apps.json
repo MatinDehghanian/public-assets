@@ -23,7 +23,7 @@
       },
       {
         "name": "Sing-Box",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/singBox.svg",
         "link": "sing-box://import-remote-profile?url={url}",
         "downloadLinks": {
           "playStore": "https://play.google.com/store/apps/details?id=io.nekohasekai.sfa",
@@ -55,7 +55,7 @@
       },
       {
         "name": "Sing-Box",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/singBox.svg",
         "link": "sing-box://import-remote-profile?url={url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/sing-box-vt/id6673731168"
@@ -86,7 +86,7 @@
       },
       {
         "name": "Sing-Box",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/singBox.svg",
         "link": "sing-box://import-remote-profile?url={url}",
         "downloadLinks": {
           "directLink": "https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/download/v1.9.9/GUI.for.SingBox-windows-amd64.zip"
@@ -118,7 +118,7 @@
       },
       {
         "name": "Sing-Box",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/singBox.svg",
         "link": "sing-box://import-remote-profile?url={url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/sing-box/id1532045463",
