@@ -7,7 +7,7 @@
       {
         "name": "Happ",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
-        "link": "happ://import/{url}",
+        "link": "happ://add/{url}",
         "downloadLinks": {
           "playStore": "https://play.google.com/store/apps/details?id=com.happproxy",
           "directLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"
@@ -40,7 +40,7 @@
       {
         "name": "Happ",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
-        "link": "happ://import/{url}",
+        "link": "happ://add/{url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone"
         }
@@ -71,7 +71,7 @@
       {
         "name": "Happ",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
-        "link": "happ://import/{url}",
+        "link": "happ://add/{url}",
         "downloadLinks": {
           "directLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
         }
@@ -102,7 +102,7 @@
       {
         "name": "Happ",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
-        "link": "happ://import/{url}",
+        "link": "happ://add/{url}",
         "downloadLinks": {
           "appStore": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
           "directLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=mac"
