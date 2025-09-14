@@ -5,12 +5,29 @@
     "label": "اَندروید",
     "apps": [
       {
-        "name": "V2rayNG",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayng.svg",
-        "link": "v2rayng://install-config?url={url}",
+        "name": "Happ",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "happ://import/{url}",
         "downloadLinks": {
-          "playStore": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-          "directLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.39/v2rayNG_1.9.39_universal.apk"
+          "playStore": "https://play.google.com/store/apps/details?id=com.happproxy",
+          "directLink": "https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk"
+        }
+      },
+      {
+        "name": "V2rayTun",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
+        "link": "v2raytun://import/{url}",
+        "downloadLinks": {
+          "playStore": "https://play.google.com/store/apps/details?id=com.v2raytun.android"
+        }
+      },
+      {
+        "name": "Sing-Box",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "sing-box://import-remote-profile?url={url}",
+        "downloadLinks": {
+          "playStore": "https://play.google.com/store/apps/details?id=io.nekohasekai.sfa",
+          "directLink": "https://github.com/SagerNet/sing-box/releases/download/v1.12.8/SFA-1.12.8-universal.apk"
         }
       }
     ]
@@ -21,26 +38,27 @@
     "label": "آی او اس",
     "apps": [
       {
-        "name": "v2raytun",
+        "name": "Happ",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "happ://import/{url}",
+        "downloadLinks": {
+          "appStore": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone"
+        }
+      },
+      {
+        "name": "V2rayTun",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
         "link": "v2raytun://import/{url}",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          "appStore": "https://apps.apple.com/en/app/v2raytun/id6476628951"
         }
       },
       {
-        "name": "Npv Tunnel",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
+        "name": "Sing-Box",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "sing-box://import-remote-profile?url={url}",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
-        }
-      },
-      {
-        "name": "Streisand",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
-        "link": "streisand://import/{url}",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          "appStore": "https://apps.apple.com/us/app/sing-box-vt/id6673731168"
         }
       }
     ]
@@ -51,10 +69,27 @@
     "label": "ویندوز",
     "apps": [
       {
-        "name": "V2rayN",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2rayn.svg",
+        "name": "Happ",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "happ://import/{url}",
         "downloadLinks": {
-          "directLink": "https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-64-SelfContained.zip"
+          "directLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
+        }
+      },
+      {
+        "name": "V2rayTun",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
+        "link": "v2raytun://import/{url}",
+        "downloadLinks": {
+          "directLink": "https://storage.v2raytun.com/v2RayTun_Setup.exe"
+        }
+      },
+      {
+        "name": "Sing-Box",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "sing-box://import-remote-profile?url={url}",
+        "downloadLinks": {
+          "directLink": "https://github.com/SagerNet/sing-box/releases/latest/download/sing-box-windows-amd64.zip"
         }
       }
     ]
@@ -65,26 +100,28 @@
     "label": "مَک او اس",
     "apps": [
       {
-        "name": "v2raytun",
+        "name": "Happ",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "happ://import/{url}",
+        "downloadLinks": {
+          "appStore": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
+          "directLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=mac"
+        }
+      },
+      {
+        "name": "V2rayTun",
         "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/v2raytun.svg",
         "link": "v2raytun://import/{url}",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          "appStore": "https://apps.apple.com/en/app/v2raytun/id6476628951"
         }
       },
       {
-        "name": "Npv Tunnel",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/npv.svg",
+        "name": "Sing-Box",
+        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/apps.svg",
+        "link": "sing-box://import-remote-profile?url={url}",
         "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/npv-tunnel/id1629465476"
-        }
-      },
-      {
-        "name": "Streisand",
-        "image": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/designSys/icons/streisand.svg",
-        "link": "streisand://import/{url}",
-        "downloadLinks": {
-          "appStore": "https://apps.apple.com/us/app/streisand/id1532045463"
+          "appStore": "https://apps.apple.com/us/app/sing-box/id1532045463"
         }
       }
     ]
